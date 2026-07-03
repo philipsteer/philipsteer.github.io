@@ -1,1 +1,8 @@
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Settler Environments
+
+description: Uncovering and exploring Australian and New Zealand settlerpoetry as a form of environmental knowledge.

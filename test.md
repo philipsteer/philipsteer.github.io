@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Test"
+title: Test
 permalink: /test
 ---
 
-﻿## On Tree Stump on Mr Mosley’s Farm, Inch Clutha
-# Dugald Ferguson 
+﻿# On Tree Stump on Mr Mosley’s Farm, Inch Clutha
+## Dugald Ferguson 
 
 Where stately Clutha’s arms enfold  
 Her island<note> Inch Clutha. Inch Clutha is an island in the Clutha River/Mata-Au, in the South Island of New Zealand.  </note> round, is to be seen  
